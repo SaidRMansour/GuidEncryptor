@@ -1,0 +1,14 @@
+/Users/saidr/Projects/EncryptService/EncryptService/bin/Debug/net8.0/EncryptService
+/Users/saidr/Projects/EncryptService/EncryptService/bin/Debug/net8.0/EncryptService.deps.json
+/Users/saidr/Projects/EncryptService/EncryptService/bin/Debug/net8.0/EncryptService.runtimeconfig.json
+/Users/saidr/Projects/EncryptService/EncryptService/bin/Debug/net8.0/EncryptService.dll
+/Users/saidr/Projects/EncryptService/EncryptService/bin/Debug/net8.0/EncryptService.pdb
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/EncryptService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/EncryptService.AssemblyInfoInputs.cache
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/EncryptService.AssemblyInfo.cs
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/EncryptService.csproj.CoreCompileInputs.cache
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/EncryptService.dll
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/refint/EncryptService.dll
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/EncryptService.pdb
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/EncryptService.genruntimeconfig.cache
+/Users/saidr/Projects/EncryptService/EncryptService/obj/Debug/net8.0/ref/EncryptService.dll
